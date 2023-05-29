@@ -1,33 +1,3 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 2.027 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Mon May 29 2023 05:27:37 GMT-0700 (PDT)
-* Source doc: DescomplicandoKubernetes-Secrets-e-ConfigMaps
------>
-
-
-<h2></h2>
-
-
-<h2></h2>
-
-
 <h2>Secrets e ConfigMaps</h2>
 
 
@@ -55,8 +25,14 @@ Este trabalho foi desenvolvido para disseminar conhecimento e incentivar a colab
 
 Ao compartilhar nas redes sociais, marque Jeferson Fernando (_@badtux__) e utilize a hashtag #KubernetesExpert. Estamos ansiosos para ver como este material inspirará a comunidade a aprender e a crescer juntos.
 
-<h4></h4>
+<h3>Além do E-book: Descomplicando o Kubernetes</h3>
 
+
+Se você busca uma compreensão mais profunda e uma experiência prática com o Kubernetes, convidamos você a conhecer o curso "Descomplicando o Kubernetes". Ministrado por Jeferson Fernando, este é o curso mais renomado sobre Kubernetes, completamente atualizado e reestruturado para proporcionar uma aprendizagem ainda mais eficaz.
+
+Com desafios práticos e reais, todo o conteúdo é ministrado em português. E como incentivo ao seu aprendizado aprofundado, utilize o código de desconto #ContainerExpert e obtenha 20% de desconto!
+
+https://www.linuxtips.io/course/descomplicando-o-kubernetes
 
 <h4>O que iremos ver hoje?</h4>
 
@@ -939,6 +915,8 @@ Depois disso, exploramos ConfigMaps. ConfigMaps são uma maneira eficiente de se
 
 Vimos:
 
+
+
 * Atualizar um ConfigMap.
 * Usar o ConfigMaps.
 * Usar o ConfigMap para definir variáveis de ambiente para os containers no Pod.
@@ -949,5 +927,4 @@ Finalmente, usamos o ConfigMap e o Secret juntos para configurar um Pod do Nginx
 
 Essa combinação de ConfigMaps e Secrets não só nos permite gerenciar nossas configurações e dados sensíveis de maneira eficiente e segura, mas também nos oferece um alto grau de flexibilidade e controle sobre as nossas aplicações.
 
-E isso é tudo por hoje, chega! :D \
-
+E isso é tudo por hoje, chega! #VAIIII \
