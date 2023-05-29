@@ -926,7 +926,7 @@ Enfim, acho que já vimos bastante coisa sobre ConfigMap, acho que já podemos i
  
 
 <h3>
-**Final do dia de hoje**</h3>
+Final do dia de hoje</h3>
 
 
 Hoje o dia foi dedicado a dois componentes importantes do Kubernetes: Secrets e ConfigMaps.
